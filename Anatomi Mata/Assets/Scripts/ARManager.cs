@@ -34,4 +34,11 @@ public class ARManager : MonoBehaviour
             Debug.LogWarning("Invalid ID provided for ActivateAnatomy");
         }
     }
+
+
+    public void PlaySounds(int id)
+    {
+        Debug.Log("Debug");
+        allAnatomy[id].GetComponent<AudioSource>().Play();
+    }
 }

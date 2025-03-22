@@ -10,12 +10,10 @@ public class GameManager : MonoBehaviour
 {
     private static GameManager _instance;
     public static GameManager Instance { get { return _instance; } }
-    public DateTime expiredApp = new DateTime(2025, 2, 28); // Atur nilai default di Inspector
+    public DateTime expiredApp = new DateTime(2025, 3, 30); // Atur nilai default di Inspector
     public int howMuchButtonClick;
     public int limitButtonClick;
     public GameObject lockPanel;
-    public GameObject settingPanel;
-    private int thisFirstTime;
     public int lenguageID;
     private const string ntpServer = "pool.ntp.org";
 
@@ -39,11 +37,6 @@ public class GameManager : MonoBehaviour
             Debug.Log("Aplikasi Terkunci");
             lockPanel.SetActive(true);
         }
-        /*thisFirstTime = PlayerPrefs.GetInt("FirstTime");
-        if (thisFirstTime == 0)
-        {
-            settingPanel.SetActive(true);
-        }*/
         StartCoroutine(GetNetworkTime());
     }
 
@@ -52,14 +45,8 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadSceneAsync(sceneIndex);
     }
 
-/*    private void firstTimeInstall() // fungsi untk pengaturan bahasa pertama kali
-    {
-        thisFirstTime = 1;
-        PlayerPrefs.SetInt("FirstTime", thisFirstTime);
-    }*/
-
     public void ExitApp() //fungsi untuk keluar apps
-    {
+    {               
 #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
 #elif UNITY_ANDROID

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8c9579b5e403dac47a5804123ef726f7
+guid: 190f095e5d14f784a9e287a6d03ad035
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI SRI_0
+      name: SRI UI_0
       rect:
         serializedVersion: 2
         x: 72
@@ -131,21 +131,21 @@ TextureImporter:
         width: 266
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11fd8a484930a884695f0acfc06737e3
-      internalID: -635832245
+      spriteID: 89470d8be65f7274b8b380102c5b45b7
+      internalID: 633299987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI SRI_1
+      name: SRI UI_1
       rect:
         serializedVersion: 2
         x: 391
@@ -153,21 +153,21 @@ TextureImporter:
         width: 554
         height: 306
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33eca581298c48b47b349349b7125ab1
-      internalID: 467763205
+      spriteID: 5b291b09d3ac6a143b5e73fb3e7ad634
+      internalID: -658733952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI SRI_2
+      name: SRI UI_2
       rect:
         serializedVersion: 2
         x: 72
@@ -175,21 +175,21 @@ TextureImporter:
         width: 266
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfb3c187d4c498e4ea4be21886843d10
-      internalID: 567703983
+      spriteID: 3c85b48294f61f841ab276283bd80a61
+      internalID: 786261944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI SRI_3
+      name: SRI UI_3
       rect:
         serializedVersion: 2
         x: 72
@@ -197,21 +197,21 @@ TextureImporter:
         width: 266
         height: 79
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9956e4c0883394f4b882388288e5cc0d
-      internalID: -619797646
+      spriteID: 08867c3eb05a02f46bbf7b66ab38a52a
+      internalID: -1107938593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI SRI_4
+      name: SRI UI_4
       rect:
         serializedVersion: 2
         x: 75
@@ -219,21 +219,21 @@ TextureImporter:
         width: 93
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cbcad7e4fe9d7642948b411ee833c9d
-      internalID: -453923256
+      spriteID: a634ace609d530b439a14340b273a7bf
+      internalID: 1134814382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI SRI_5
+      name: SRI UI_5
       rect:
         serializedVersion: 2
         x: 196
@@ -241,21 +241,21 @@ TextureImporter:
         width: 92
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30555d0b6c07c7e4e957b8869df55f75
-      internalID: 1180617998
+      spriteID: d877128c46357db4ebf8eb4dcafb581a
+      internalID: 986895687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI SRI_6
+      name: SRI UI_6
       rect:
         serializedVersion: 2
         x: 316
@@ -263,21 +263,21 @@ TextureImporter:
         width: 93
         height: 93
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdf900abdf1c4734fab4b9af33a5b508
-      internalID: -1846270919
+      spriteID: 3e018364c1290bb40a57eeadc32e1833
+      internalID: -1046478641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI SRI_7
+      name: SRI UI_7
       rect:
         serializedVersion: 2
         x: 437
@@ -285,37 +285,37 @@ TextureImporter:
         width: 93
         height: 93
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85755d15b25519b47b83b4b68b22cadf
-      internalID: 396917944
+      spriteID: 21716b46370a9eb4f8178779ff61733c
+      internalID: 1345293757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI SRI_8
+      name: SRI UI_8
       rect:
         serializedVersion: 2
-        x: 557
-        y: 72
-        width: 93
-        height: 93
+        x: 580
+        y: 99
+        width: 51
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bde36a8a630a6f444be10278be41c304
-      internalID: 716840518
+      spriteID: 680f81df9201951458cc44e4d7a3a59b
+      internalID: 67476955
       vertices: []
       indices: 
       edges: []
@@ -324,7 +324,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 66661622c67031147bdbc1310995b20a
+    spriteID: 05764d86045778b4881eda1612b11bcf
     internalID: 0
     vertices: []
     indices: 
@@ -334,15 +334,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      UI SRI_0: -635832245
-      UI SRI_1: 467763205
-      UI SRI_2: 567703983
-      UI SRI_3: -619797646
-      UI SRI_4: -453923256
-      UI SRI_5: 1180617998
-      UI SRI_6: -1846270919
-      UI SRI_7: 396917944
-      UI SRI_8: 716840518
+      SRI UI_0: 633299987
+      SRI UI_1: -658733952
+      SRI UI_10: -1451917012
+      SRI UI_2: 786261944
+      SRI UI_3: -1107938593
+      SRI UI_4: 1134814382
+      SRI UI_5: 986895687
+      SRI UI_6: -1046478641
+      SRI UI_7: 1345293757
+      SRI UI_8: 67476955
+      SRI UI_9: 652492880
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

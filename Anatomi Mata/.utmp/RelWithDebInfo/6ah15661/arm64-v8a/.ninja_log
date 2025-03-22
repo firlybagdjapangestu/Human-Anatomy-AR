@@ -1,0 +1,19 @@
+# ninja log v5
+0	2041	7623192789536388	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f680985216c149e1
+30	2084	7623192790347273	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	29037d7f4fc54f8c
+11	2150	7623192791492953	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ec5110a9ad0d9ff5
+21	2350	7623192793658388	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6b3eeeb8ede1f91e
+16	2457	7623192794326986	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	660c0e25b523c829
+35	2635	7623192796312520	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3d099384198ff10a
+7	2639	7623192796029482	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f729475577ce8a92
+25	2646	7623192796553862	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2184bb24bee4006e
+2646	2818	7623192798458700	C:/Users/firly/OneDrive/Documents/GitHub/Untiy Project/Human-Anatomy-AR/Anatomi Mata/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6ah15661/obj/arm64-v8a/libgame.so	2d623cf103c4214e
+50	2133	7643315705974566	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3d099384198ff10a
+39	2447	7643315705612682	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	660c0e25b523c829
+17	2472	7643315706874234	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f680985216c149e1
+43	2564	7643315709721042	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	29037d7f4fc54f8c
+28	2619	7643315710783266	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2184bb24bee4006e
+5	2654	7643315708922257	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ec5110a9ad0d9ff5
+34	2664	7643315711314954	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6b3eeeb8ede1f91e
+22	3045	7643315715054809	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f729475577ce8a92
+3045	3471	7643315719638001	C:/Users/firly/OneDrive/Documents/GitHub/Untiy Project/Human-Anatomy-AR/Anatomi Mata/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6ah15661/obj/arm64-v8a/libgame.so	2d623cf103c4214e

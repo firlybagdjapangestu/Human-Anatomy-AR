@@ -234,6 +234,8 @@ namespace UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets
         }
 
         public GameObject[] allAnatomy;
+        public AudioSource audioSource;
+        public AudioClip[] allAudioClip;
 
         public void ActivateAnatomy(int id)
         {
@@ -248,11 +250,24 @@ namespace UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets
             // Activate the selected object
             if (id >= 0 && id < allAnatomy.Length) // Ensure id is within bounds
             {
+                audioSource.clip = allAudioClip[id];
                 allAnatomy[id].SetActive(true);
             }
             else
             {
                 Debug.LogWarning("Invalid ID provided for ActivateAnatomy");
+            }
+        }
+
+        public void PlaySounds()
+        {            
+            if (audioSource.isPlaying)
+            {
+                audioSource.Stop();
+            }
+            else
+            {
+                audioSource.Play();
             }
         }
     }

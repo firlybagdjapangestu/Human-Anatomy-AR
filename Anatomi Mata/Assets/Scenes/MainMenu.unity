@@ -1098,7 +1098,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 3}
+  m_AnchoredPosition: {x: -0.000065395, y: 15}
   m_SizeDelta: {x: 502.192, y: 106.453}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &862341302
@@ -1121,11 +1121,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Universitas Islam Riau
+  m_text: 'Program Studi Teknik Informatika
 
-    Teknik Informatika
+    Fakultas Teknik
 
-    copyright 2025'
+    Universitas
+    Islam Riau
+
+    @Copyright2025 '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1399,7 +1402,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1010046479}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -1898,7 +1901,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1174309911}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -2224,7 +2227,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 396917944, guid: 8c9579b5e403dac47a5804123ef726f7, type: 3}
+  m_Sprite: {fileID: 1345293757, guid: 190f095e5d14f784a9e287a6d03ad035, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2492,7 +2495,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 567703983, guid: 8c9579b5e403dac47a5804123ef726f7, type: 3}
+  m_Sprite: {fileID: 786261944, guid: 190f095e5d14f784a9e287a6d03ad035, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2832,7 +2835,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -619797646, guid: 8c9579b5e403dac47a5804123ef726f7, type: 3}
+  m_Sprite: {fileID: -1107938593, guid: 190f095e5d14f784a9e287a6d03ad035, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2964,7 +2967,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1846270919, guid: 8c9579b5e403dac47a5804123ef726f7, type: 3}
+  m_Sprite: {fileID: -1046478641, guid: 190f095e5d14f784a9e287a6d03ad035, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3435,7 +3438,6 @@ MonoBehaviour:
   howMuchButtonClick: 0
   limitButtonClick: 0
   lockPanel: {fileID: 1381135908}
-  settingPanel: {fileID: 2142995950}
   lenguageID: 0
 --- !u!4 &1858413268
 Transform:
@@ -4232,7 +4234,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -635832245, guid: 8c9579b5e403dac47a5804123ef726f7, type: 3}
+  m_Sprite: {fileID: 633299987, guid: 190f095e5d14f784a9e287a6d03ad035, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
